@@ -1,14 +1,13 @@
 # User Story
 
-## Title
-[Short title of the user story]
-
 ## User Story
-As a [type of user],
-I want [goal],
-so that [reason/benefit].
+As a [type of user], I want [goal], so that [reason/benefit].
+
+## Details and Assumptions
+- The user has access to the GiftLink application.
+- The user can use the required feature.
+- The application provides the required functionality.
 
 ## Acceptance Criteria
-- [Criterion 1]
-- [Criterion 2]
-- [Criterion 3]
+- Given [context], When [action], Then [outcome].
+- Given [context], When [action], Then [outcome].
